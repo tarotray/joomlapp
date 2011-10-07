@@ -4,7 +4,7 @@
 	id		= "com.goaheadspace.joomlapp"
 	version 	= "0.9.9999">
 
-	<name>Joomlapp: Joomla component client</name>
+	<name>Joomlapp: Joomlapp API client</name>
 
 	<description>
 		An app that will act as a client for the Joomla component, which provides an API for a Joomla website
