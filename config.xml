@@ -2,12 +2,12 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.goaheadspace.joomlapp"
-	version 	= "0.9.99">
+	version 	= "0.9">
 
 	<name>Joomlapp: Joomlapp API client</name>
 
 	<description>
-		An app that will act as a client for the Joomla component, which provides an API for a Joomla website
+		An app that will act as a client for the Joomla component, which provides a JSON API for a Joomla website
 	</description>
 
 	<author href="http://www.goaheadspace.net/web/en.html"
